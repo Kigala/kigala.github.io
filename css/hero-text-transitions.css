@@ -102,20 +102,24 @@
   }
   
   .slider_1 {
-    background-image: url('./../img/home-slider/slider-2.JPG');
+    /* background-image: url('./../img/home-slider/slider-2.JPG'); !important; */
+    background-image: url('https://raw.githubusercontent.com/Kigala/hotel/master/img/home-slider/slider-2.jpg') !important;
     background-position: center center !important;
   }
   .slider_2 {
-    background-image: url('./../img/home-slider/slider-3.jpg') !important;
+    /* background-image: url('./../img/home-slider/slider-3.jpg') !important; */
+    background-image: url('https://raw.githubusercontent.com/Kigala/hotel/master/img/home-slider/slider-3.jpg') !important;
     background-position: center center !important;
   }
   .slider_3 {
-    background-image: url('./../img/home-slider/slider-4.JPG') !important;
+    /* background-image: url('./../img/home-slider/slider-4.JPG') !important; */
+    background-image: url('https://raw.githubusercontent.com/Kigala/hotel/master/img/home-slider/slider-4.jpg') !important;
     background-position: center center !important;
   
   }
   .slider_4 {
-    background-image: url('./../img/home-slider/slider-5.JPG') !important;
+    /* background-image: url('./../img/home-slider/slider-5.JPG') !important; */
+    background-image: url('https://raw.githubusercontent.com/Kigala/hotel/master/img/home-slider/slider-5.jpg') !important;
     background-position: center center !important;
   }
   
