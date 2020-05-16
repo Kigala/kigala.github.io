@@ -1,0 +1,44 @@
+@font-face {
+	font-family: 'Stroke-Gap-Icons';
+	src: url('fonts/Stroke-Gap-Icons.eot');
+}
+
+
+header {display: block;}
+footer {background-color: darkslategray;}
+
+.main-section {display: block;}
+
+.main_header_area,
+.main_slider_area,
+.book_table_area,
+.introduction_area,
+.explor_room_area,
+.our_service_area,
+.our_resort_gallery_area,
+.client_area,
+.latest_news_area,
+.video_area,
+.fun_fact_area,
+.footer_area,
+{
+
+}
+
+
+
+
+
+.icon {
+	font-family: 'Stroke-Gap-Icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
