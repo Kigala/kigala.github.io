@@ -1,0 +1,17 @@
+.slider_1 {
+    background-image: url('./../img/booking/01.jpg') !important;
+    background-position: center center !important;
+  }
+.slider_2 {
+background-image: url('./../img/booking/04.jpg') !important;
+background-position: center center !important;
+}
+.slider_3 {
+background-image: url('./../img/booking/09.jpg') !important;
+background-position: center center !important;
+
+}
+.slider_4 {
+background-image: url('./../img/booking/07.jpg') !important;
+background-position: center center !important;
+}
